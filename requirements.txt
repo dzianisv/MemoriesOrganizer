@@ -1,0 +1,6 @@
+numpy
+piexif
+opencv-python
+pillow
+langchain
+openai
